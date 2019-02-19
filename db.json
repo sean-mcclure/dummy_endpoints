@@ -1,6 +1,19 @@
 {
-"image_1" : "https://collaboratescience.com/azle_examples/img/1.png",
-"image_2" : "https://collaboratescience.com/azle_examples/img/2.png",
-"image_3" : "https://collaboratescience.com/azle_examples/img/3.png",
-"image_4" : "https://collaboratescience.com/azle_examples/img/4.png" 
+  "users": [
+    {
+      "id": 1,
+      "userId": 101,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "userId": 103,
+      "name": "Carol"
+    }
+  ]
 }
