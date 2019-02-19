@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"images": [{
+			"chart_1_url": "https://collaboratescience.com/azle_examples/img/1.png"
+		},
+		{
+			"chart_2_url": "https://collaboratescience.com/azle_examples/img/2.png"
+		},
+		{
+			"chart_3_url": "https://collaboratescience.com/azle_examples/img/3.png"
+		},
+		{
+			"chart_4_url": "https://collaboratescience.com/azle_examples/img/4.png"
+		}
+	]
 }
